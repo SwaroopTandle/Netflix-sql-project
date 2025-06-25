@@ -75,15 +75,4 @@ This project presents an exploratory data analysis of Netflix content using SQL.
 - United States and India are among the top producers of Netflix content.
 - Actor "Salman Khan" has featured in multiple Netflix items in the last decade.
 
-## 📌 Note
 
-- The CSV may include multiple countries, directors, and actors per row. Queries account for these using PostgreSQL string functions like `UNNEST` and `STRING_TO_ARRAY`.
-- Make sure to cast and parse dates and durations appropriately depending on your SQL dialect.
-
-## 📬 Contact
-
-For questions or suggestions, feel free to reach out via GitHub issues.
-
----
-
-⭐ If you found this project helpful, please give it a star!
