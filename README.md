@@ -12,7 +12,6 @@ This project presents an exploratory data analysis of Netflix content using SQL.
 ## 🛠️ Technologies Used
 
 - **PostgreSQL**: Relational database used for running SQL queries.
-- **SQL**: For data manipulation and analysis.
 - **CSV**: Source file format used for dataset.
 
 ## 🧠 Key SQL Queries and Their Purpose
@@ -62,17 +61,7 @@ This project presents an exploratory data analysis of Netflix content using SQL.
 15. **Categorize by Keywords ('Kill' or 'Violence')**  
     Group content based on presence of potentially violent descriptions.
 
-## 📊 How to Use
 
-1. Import the `netflix_titles.csv` into your PostgreSQL database using a suitable tool (e.g., pgAdmin or SQL scripts).
-2. Run the SQL queries from `netflix_sql_project.sql` to explore and analyze the dataset.
-3. Modify queries as per your interest or add new ones for deeper insights.
 
-## 🔍 Sample Insights
-
-- TV Shows slightly outnumber Movies on the platform.
-- The "TV-MA" rating is the most common for TV shows.
-- United States and India are among the top producers of Netflix content.
-- Actor "Salman Khan" has featured in multiple Netflix items in the last decade.
 
 
